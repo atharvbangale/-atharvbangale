@@ -8,7 +8,7 @@
             <h3>Tech-Savvy BTECH CSE Grad | Python, Java, Data Alchemist in Training</h3>
         </header>
         
-<img align="right" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Description of the image">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" alt="Description of the image">
 
 
 
