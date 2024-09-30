@@ -13,12 +13,15 @@
 
 
 
+- 📫 MY PORTFOLIO TO KNOW MORE  [https://atharvbangale.netlify.app/]
 
 - 🔭 I’m currently working on **MetaVault by Blockchain**
 
 - 💬 Ask me about **Python • HTML • Java • NoSQL (MongoDB) • Data Structures & Algorithms • JavaScript • Database, SQL • Data Visualization • Machine Learning**
 
-- 📫 How to reach me **atharvbangale@gmail.com**
+
+ 
+ - 📫 How to reach me **atharvbangale@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DMuOkf41EE0wwEB2NnXtlIRiMKrib8ef/view](https://drive.google.com/file/d/1DMuOkf41EE0wwEB2NnXtlIRiMKrib8ef/view)
 
